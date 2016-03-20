@@ -21,5 +21,4 @@ $(function(){ $(document).foundation(); });
 $(document).ready(function() {
   setInterval(function() {
     $("#refreshable").load(location.href + " #refreshable");
-  }, 15000);
-});
+  }, 15000);});
