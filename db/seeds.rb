@@ -6,7 +6,7 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-Item.create(name: "Alpaca", description: "Cute.  Fluffy.  Comes with snow.",
+Item.create(name: "Alpaca", description: "Hideous, fluffy, not a Llama.",
     image_url: "http://us.123rf.com/450wm/doty911/doty9111505/doty911150500001/40371903-alpaca-with-funny-hair.jpg?ver=6",
     starting_price: 125.00)
 
